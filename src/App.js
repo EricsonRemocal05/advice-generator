@@ -29,12 +29,12 @@ function App() {
           <Loading />
         ) : (
           <>
-            <div className='w-72 md:w-[500px] h-fit bg-darkGrayishBlue p-8 md:p-12 text-center rounded-lg'>
-              <h2 className='text-neonGreen text-sm mb-5'>ADVICE #{advice.slip.id}</h2>
+            <main className='w-72 md:w-[500px] h-fit bg-darkGrayishBlue p-8 md:p-12 text-center rounded-lg'>
+              <h1 className='text-neonGreen text-sm mb-5'>ADVICE #{advice.slip.id}</h1>
               <p className='text-lightCyan mb-10 font-extrabold'>“{advice.slip.advice}”</p>
               <img src={desktopDivider} alt='desktop divider' className='hidden md:flex' />
               <img src={mobileDivider} alt='mobile divider' className='md:hidden' />
-            </div>
+            </main>
             <button
               className='h-12 w-12 bg-neonGreen -mt-5 rounded-full flex items-center justify-center shadow-neon'
               onClick={randomAdvice}
