@@ -39,7 +39,7 @@ With Hover State
 ### Links
 
 - Solution URL: [repo link](https://github.com/EricsonRemocal05/advice-generator-app)
-- Live Site URL: [live site](https://spectacular-dolphin-145c5e.netlify.app/)
+- Live Site URL: [live site](https://tiny-pie-9cb241.netlify.app/)
 
 ### Built with
 
