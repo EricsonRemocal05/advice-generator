@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile Design
+Mobile Design<br />
 ![Mobile Design](./src/screenshots/mobile.png)
 
 Desktop Design
